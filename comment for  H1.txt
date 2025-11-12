@@ -1,7 +1,8 @@
 The code has good logic, but limited comments.
 
-1. (-1) Why the answer in PS1.ipynb file is -25. The corrected answer is empty. Please strictly follow the requirement of the question. That is, the input values should be a = 5, b = 15, and c = 10, respectively.
+1. (-0) Why the answer in PS1.ipynb file is -25. The corrected answer is empty. Please strictly follow the requirement of the question. That is, the input values should be a = 5, b = 15, and c = 10, respectively.
 2. (-5) The answer is wrong. Please use celing function to solve the problem.
 3. (-0)
-4. (4.3 -2) Please describe what do you see using markdown or annotation in the figure.
+4. (-0)
+
 5. (-0)
