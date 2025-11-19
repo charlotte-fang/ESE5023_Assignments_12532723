@@ -1,3 +1,4 @@
 1. (-2) Please check the requirements for Problem 1 — it asks you to compute the results at the country level rather than the city level.
-2. (-4) There is no indication of whether a trend exists.
-3. (-15) No code is provided, and the answer for Problem 3 in the PDF is confusing—it seems unrelated to the question.
+2. (-0) 
+
+3. (-8) No code is provided.
